@@ -11,3 +11,5 @@ I have it installed on my computer: <img src="https://img.shields.io/badge/Arch%
 I can work with:  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> and <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><h1>
 
 For cooperation write to me on gmail : ajtimisevkirill69@gmail.com
+
+My YouTube: 
