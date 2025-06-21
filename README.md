@@ -8,6 +8,6 @@ My main programming language: <img src="https://img.shields.io/badge/python-3670
 
 I have it installed on my computer: <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/><h1>
 
-I can work with:  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> and <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><h1>
+I can work with:  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>    and     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><h1>
 
 For cooperation write to me on gmail : ajtimisevkirill69@gmail.com
